@@ -73,7 +73,7 @@ public class SaveFromnet extends Fragment {
         //   webView.getSettings().setUserAgentString(new WebView(this).getSettings().getUserAgentString()); //set default user agent as of Chrome
         webView.setWebViewClient(new WebViewClient()); //we would be overriding WebViewClient() with custom methods
         // webView.setWebChromeClient(new chromeView()); //we would be overriding WebChromeClient() with custom methods.
-        webView.loadUrl("https://en.savefrom.net/379/"); // website on app launch
+        webView.loadUrl("https://ummy.net/en29/"); // website on app launch
         /////////////////////////////////////////////////////////////////////
         webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         webView.getSettings().setLoadsImagesAutomatically(true);

@@ -20,7 +20,7 @@
         <menu>
             <item android:id="@+id/savFnet"
                 android:icon="@drawable/download_foreground"
-                android:title="saveFromNet"/>
+                android:title="DownloadfromLink"/>
             <item android:id="@+id/chatgpt"
                 android:icon="@drawable/chat_foreground"
                 android:title="ChatGpt"/>

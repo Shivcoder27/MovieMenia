@@ -80,7 +80,7 @@ public class MovieLink1 extends Fragment {
      //   webView.getSettings().setUserAgentString(new WebView(this).getSettings().getUserAgentString()); //set default user agent as of Chrome
         webView.setWebViewClient(new WebViewClient()); //we would be overriding WebViewClient() with custom methods
         // webView.setWebChromeClient(new chromeView()); //we would be overriding WebChromeClient() with custom methods.
-        webView.loadUrl("https://vegamovies.rocks/"); // website on app launch
+        webView.loadUrl("https://vegamovies.love/page/193/"); // website on app launch
         webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         webView.getSettings().setLoadsImagesAutomatically(true);
         webView.getSettings().setJavaScriptEnabled(true);

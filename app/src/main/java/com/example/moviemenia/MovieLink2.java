@@ -98,7 +98,7 @@ public class MovieLink2 extends Fragment {
 
       //  webView.setWebViewClient(new MyWebViewClient());
         // webView.setWebChromeClient(new chromeView()); //we would be overriding WebChromeClient() with custom methods.
-        webView.loadUrl("https://thekhatrimaza.baby/"); // website on app launch
+        webView.loadUrl("https://khatrimaza.lat/"); // website on app launch
         /////////////////////////////////////////////////////////
         webView.setOnKeyListener(new View.OnKeyListener() {
             @Override
